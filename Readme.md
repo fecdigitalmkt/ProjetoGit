@@ -1,1 +1,3 @@
- Aprendendo a utilizar o Git.
+ Aprendendo a utilizar o Git. 
+
+ Isso é uma alteração no arquivo original.
